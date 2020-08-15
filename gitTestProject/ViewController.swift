@@ -15,9 +15,15 @@ class ViewController: UIViewController {
         print("git")
         print("git2")
         print("git3push")
+        topla(for: 5,sayi: 7)
+    }
+  
+    func topla (for toplam : Int,sayi : Int)
+    {
+      let toplam1 = sayi + toplam
+        print(toplam1)
         
     }
-
 
 }
 
