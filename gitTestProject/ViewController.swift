@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("git2")
         print("git3push")
         topla(for: 5,sayi: 7)
+        print ("30 August")
     }
   
     func topla (for toplam : Int,sayi : Int)
